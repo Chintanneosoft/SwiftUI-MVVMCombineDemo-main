@@ -11,7 +11,7 @@ import Combine
 
 final class SearchUserViewModel: ObservableObject {
 
-    @Published var name = "ra1028"
+    @Published var name = "ChintanRajgor"
 
     @Published private(set) var users = [User]()
 
